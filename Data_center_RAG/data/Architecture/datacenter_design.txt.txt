@@ -1,0 +1,28 @@
+Project: DC-01 Hyperscale Data Centre
+
+Capacity: 30 MW IT Load
+
+Redundancy: N+1 Cooling
+
+Power Topology:
+Utility Grid
+↓
+11kV Switchgear
+↓
+UPS
+↓
+PDU
+↓
+IT Rack
+
+Cooling:
+- Chilled Water System
+- CRAH Units
+- Hot Aisle Containment
+
+Network:
+- Dual Core Switches
+- Redundant Fiber Backbone
+
+Tier Target:
+Uptime Institute Tier III

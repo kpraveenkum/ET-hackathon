@@ -1,0 +1,23 @@
+Incident Report
+
+Date
+
+12 July 2026
+
+Issue
+
+UPS battery alarm triggered during commissioning.
+
+Cause
+
+Loose battery terminal.
+
+Impact
+
+Commissioning delayed by four hours.
+
+Resolution
+
+Terminal re-tightened.
+
+Battery retested successfully.

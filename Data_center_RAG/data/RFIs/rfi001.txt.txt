@@ -1,0 +1,11 @@
+RFI 001
+
+Question
+
+Can the UPS battery room share ventilation with the electrical room?
+
+Response
+
+No.
+
+Battery rooms require dedicated ventilation according to project specifications.

@@ -1,0 +1,23 @@
+UPS Specification
+
+Capacity: 1000 kVA
+
+Vendor: Schneider Electric
+
+Input Voltage: 415V
+
+Output Voltage: 415V
+
+Backup Time:
+15 minutes at full load
+
+Compliance:
+IEC 62040
+
+Acceptance Criteria
+
+Output voltage variation less than ±1%
+
+Battery autonomy minimum 15 minutes
+
+No alarm during full-load testing

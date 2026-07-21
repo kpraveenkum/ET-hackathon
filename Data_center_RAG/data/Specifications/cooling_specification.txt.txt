@@ -1,0 +1,19 @@
+Cooling Specification
+
+System:
+Chilled Water
+
+Cooling Units:
+CRAH
+
+Design Temperature:
+22°C
+
+Humidity:
+45-55%
+
+Redundancy:
+N+1
+
+Compliance:
+ASHRAE TC9.9

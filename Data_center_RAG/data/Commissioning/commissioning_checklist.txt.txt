@@ -1,0 +1,27 @@
+Commissioning Checklist
+
+UPS
+
+✔ Visual Inspection
+
+✔ Cable Tightness
+
+✔ Battery Verification
+
+✔ Functional Test
+
+Generator
+
+✔ Fuel Check
+
+✔ Synchronization Test
+
+Cooling
+
+✔ Water Flow Test
+
+✔ CRAH Functional Test
+
+Network
+
+✔ Redundancy Validation

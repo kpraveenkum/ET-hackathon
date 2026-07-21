@@ -1,0 +1,19 @@
+Server Restart SOP
+
+1.
+Notify operations.
+
+2.
+Verify backup completed.
+
+3.
+Gracefully stop services.
+
+4.
+Restart operating system.
+
+5.
+Verify application health.
+
+6.
+Close maintenance ticket.

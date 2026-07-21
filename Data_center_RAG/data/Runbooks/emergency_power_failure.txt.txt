@@ -1,0 +1,25 @@
+Emergency Power Failure Runbook
+
+Step 1
+
+Verify utility power failure.
+
+Step 2
+
+Confirm UPS supplying critical load.
+
+Step 3
+
+Start diesel generators.
+
+Step 4
+
+Transfer load using ATS.
+
+Step 5
+
+Verify cooling systems remain operational.
+
+Step 6
+
+Notify project management.

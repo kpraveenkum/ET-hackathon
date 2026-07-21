@@ -1,0 +1,29 @@
+Project Schedule
+
+Civil Works
+Completed
+
+Electrical Installation
+80%
+
+Mechanical Installation
+70%
+
+Commissioning
+Starts 15 September 2026
+
+Project Completion
+30 October 2026
+
+Critical Path
+
+UPS Delivery
+↓
+
+Electrical Testing
+↓
+
+Integrated System Testing
+↓
+
+Client Handover
