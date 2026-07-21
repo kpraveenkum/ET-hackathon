@@ -1,0 +1,38 @@
+[project]
+name = "praveen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain==0.3.27",
+    "langchain-core==0.3.76",
+    "langchain-community==0.3.27",
+    "langchain-chroma==0.2.5",
+    "langchain-groq==0.3.7",
+    "langchain-huggingface==0.3.1",
+    "langgraph==0.6.7",
+    "langgraph-prebuilt==0.6.4",
+    "langgraph-checkpoint==2.1.1",
+    "chromadb",
+    "sentence-transformers",
+    "fastapi",
+    "uvicorn",
+    "python-dotenv",
+    "python-multipart",
+    "docx2txt",
+    "python-docx",
+    "pypdf",
+    "pymupdf",
+    "langgraph-supervisor>=0.0.29",
+    "langchain-openai>=0.3.33",
+    "langchain-ollama>=0.3.10",
+    "faiss-cpu>=1.14.3",
+    "tiktoken>=0.13.0",
+    "unstructured>=0.24.1",
+    "langchain-experimental>=0.3.4",
+    "rank-bm25>=0.2.2",
+    "wikipedia>=1.4.0",
+    "ipykernel>=7.3.0",
+    "click>=8.4.2",
+]
